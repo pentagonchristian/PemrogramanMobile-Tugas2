@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="paragraph1">
+        (CNN)Manchester United ended Manchester Citys 21-game winning streak with a brilliantly executed 2-0 victory at the Etihad Stadium on Sunday.
+    </string>
+    <string name="paragraph2">
+        A Bruno Fernandes goal and a rare strike from defender Luke Shaw were enough to hand Ole Gunnar Solskjaers side a confidence boosting win in the derby.
+    </string>
+    <string name="paragraph3">
+        Coming into the Premier League match, City hadnt lost in all competitions since November 21 and was facing a Untied side short of form based on recent performances.
+    </string>
+    <string name="paragraph4">
+        However, it took the visitors just 101 seconds to take the lead through Fernandes spot-kick, the talismans 16th league goal of the season. And United was deserving of all three points.
+    </string>
+    <string name="paragraph5">
+        Despite the defeat, City remains 11 points clear at the top of table, but the result will do wonders for Uniteds hopes of securing second place.
+    </string>
+    <string name="paragraph6">
+        "We lost and that will be the news, but the [real] news is 21 victories in a row. This is the news," Pep Guardiola told Sky Sports after the match. "This result is going to help us a lot to understand how difficult it is."
+    </string>
+    <string name="paragraph7">
+        "There is still a lot of games to play […] we have to start winning again and next game we have an opportunity to do it," Guardiola said.
+    </string>
+    <string name="manchester_united_brings_manchester_city_s_21_match_winning_streak_to_an_end">Manchester United brings Manchester City\'s 21-match winning streak to an end</string>
+    <string name="article">Article</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="profile">Profile</string>
+    <string name="biodata_of_the_author">BIODATA OF THE AUTHOR</string>
+    <string name="nim_h071191061">Student Number : H071191061</string>
+    <string name="nama_christian_pentagon_batlayar">Name : Christian Pentagon Batlayar</string>
+    <string name="ttl_semarang_september_11_2001">PDB : Semarang, Sep 11, 2001</string>
+    <string name="life_motto">Life Motto :</string>
+    <string name="do_your_best_god_do_the_rest">Do Your Best, God Do The Rest</string>
+    <string name="welcome_to_my_application">MANCHESTER UNITED ARTICLE</string>
+</resources>

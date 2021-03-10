@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mu2"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gold"
+        android:background="@color/maroon"
+        android:textAlignment="center"
+        android:text="@string/article"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+        android:textSize="25pt"/>
+
+    <ScrollView
+        android:layout_width="374dp"
+        android:layout_height="275dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@color/white">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/manchester_united_brings_manchester_city_s_21_match_winning_streak_to_an_end"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textSize="12pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph1"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph2"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph3"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph4"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph5"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph6"
+                android:textSize="8pt"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paragraph7"
+                android:textSize="8pt"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/grey"
+        android:layout_marginTop="16dp"
+        android:text="@string/back_to_home"
+        android:textSize="12pt"
+        android:onClick="toHome"/>
+
+    <Button
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/grey"
+        android:text="@string/profile"
+        android:layout_marginTop="16dp"
+        android:textSize="12pt"
+        android:onClick="toProfile"/>
+
+
+</LinearLayout>
